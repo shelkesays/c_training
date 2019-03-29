@@ -5,3 +5,4 @@ clean:
 
 all:
 	make ex1
+
