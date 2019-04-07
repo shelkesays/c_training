@@ -1,0 +1,10 @@
+1. Break Switch case in different ways and try to understand the errors/warnings that it gives.
+2. In 1, what were the type of errors? Are those compile time or execution time.
+3. Try to use if-statements instead of switch case.
+4. Try to reduce the code in such a way that it will only have one if condition and else part.
+5. Write a program that uses math on the operand to convert it to lowercasae, and then remove all of the uppercase letter in the switch.
+6. Create a program which reads a string / word from command line and then checks each of the characters in switch case for checking whether character is Vowel  or not. [Clue: use loop]
+7. In above program 6, use ',' to initialize operand in the for loop.
+8. Make above program 6, to handle all the arguments you pass it with yet another for-loop.
+9. Write a program which uses some mathematical operation and the store the ouput in operand to switch case. Perform jumps in switch case based on the operand value.
+
