@@ -1,0 +1,5 @@
+1. Try to break code by playing with array and string length.
+2. Get rid of initializers that set up name.
+3. Accidentally set name[3] = 'A'; so that there is not terminator.
+4. Accidentally set name[4] = 'Z'; and see what error you get and what type of error it is.
+5. Ser the initializer to {'a', 'a', 'a', 'a'}; so that there are too many 'a' characters and no space for the '\0' terminator.
