@@ -1,7 +1,17 @@
 #include <stdio.h>
 
+/*
+ * Memory pool: (....{10, 12, 13, 14, 20}...)
+ *   areas ----> {10, 12, 13, 14, 20}
+ *
+ *   [ ...... ]
+ *   [ ...... ]
+ *   [10, 12, 13, 14, 20] ===> areas
+ *   [ ...... ]
+ */
 
 int main(int argc, char* argv[]) {
+  // type variable[] = {initializer};
   int areas[] = {10, 12, 13, 14, 20};
   char name[] = "Rahul";
   char full_name[] = {
