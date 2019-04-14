@@ -15,4 +15,5 @@ Extra Credit:
 3. Try setting one elements of areas to a character from name.
 4. Check all the functions present in stdio.h file and try to use them in a program.
 5. Search online for the different sizes used for integers on different CPUs.
+6. Search for what is UTF-8 and how it is used in your computers.
 
