@@ -1,0 +1,12 @@
+1. Print right angle triangle using nested for loop.
+2. Print above triangle using while loop.
+3. Print normal triangle.
+4. Print different representations of the above triangle, normal and right angle.
+5. Print fibbonacci series from 1 to 100 (inclusive of 100).
+6. In ex10, find out why name variable has 6 characters and full_name has 14?
+7. If you forget to use escape character '\', see what happens.
+
+
+EXTRA: Check all the functions present in stdio.h file and try to use them in a program.
+
+NOTE: All the programs should be tried with for as well as while loop and combination both.
