@@ -10,7 +10,7 @@ NOTE: All the programs should be tried with for as well as while loop and combin
 
 
 Extra Credit:
-1. Try assigning to elements in the areas arrat with areas[0] = 10, and similar.
+1. Try assigning to elements in the areas array with areas[0] = 10, and similar.
 2. Try assigning to elements of name and full_name.
 3. Try setting one elements of areas to a character from name.
 4. Check all the functions present in stdio.h file and try to use them in a program.
