@@ -1,0 +1,9 @@
+1. Check if given number is palindrome.
+2. Check all the 3 digit palindrome number.
+3. Get the maximum 3 digit palindrome number.
+4. Improve the program by reducing the operations / number of variables / both.
+5. Do the same palindrome program in while loop.
+6. Write a program to swap two numbers.
+
+Extra Credit:
+1. Try to use and understand functions from stdio.h like puts, getc, putc, etc.
