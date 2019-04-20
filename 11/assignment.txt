@@ -1,0 +1,9 @@
+1. Convert the program to While loop.
+2. Initialize i = 0 and test what is the result. Do you have to adjust condition to check for argc?
+
+
+Extra Credit:
+1. Figure out what kind of code you can put into the parts of the loop.
+2. Is there any other way to improve switch case?
+3. Instead of switch case use if-elseif ladder.
+
